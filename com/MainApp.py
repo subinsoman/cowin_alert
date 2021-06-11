@@ -85,7 +85,7 @@ class Alert:
         gmail_password = 'trzmfrlxmppsufbo'
 
         sent_from = gmail_user
-        to = ['rajureshma463@gmail.com','subin.soman@6dtech.co.in','nipun@6dtech.co.in']
+        to = ['rajureshma463@gmail.com','subin.soman@6dtech.co.in']
         cc=[]
         bcc=[]
         subject = 'OMG Vaccine @ '+  str(center['name'])
