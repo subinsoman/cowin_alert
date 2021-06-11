@@ -1,0 +1,4 @@
+pandas== 1.0.5
+pygelf==0.2.11
+requests==2.22.0
+playsound==1.2.2
